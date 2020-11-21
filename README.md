@@ -21,14 +21,14 @@ This workshop was prepared and presented by [Anis Ismail](https://www.linkedin.c
 
 ### 3. Machine Learning for Time-series Prediction
 
-*   Presentation Slides
-*   Code (with exercises)
-*   Code (with solution)
+*   [Presentation Slides](https://drive.google.com/file/d/11jEIQ8XnqL8Q9WAxvYGKn_n_O-4f02aU/view?usp=sharing)
+*   [Code (with exercises)](https://colab.research.google.com/drive/1w5URantmuPZZo5PyG27SLVMnImgSBUJJ?usp=sharing)
+*   [Code (with solution)](https://colab.research.google.com/drive/1NPjWM5Fe5k6ZhQ1G02ZdgtR6BRwe6Rze?usp=sharing)
 
 This workshop was prepared and presented by [Reem Mahmoud](https://www.linkedin.com/in/reemmahmoud/).
 
 <br />
-NOTE: To edit any of the code scripts above, open the file in Google Colaboratory then click **File** > **Save a copy in Drive…** <br />
+NOTE: To edit any of the code scripts above, open the file in Google Colaboratory. Afterwards, go to "File" and "Save a copy in Drive". You will now be able to have a personal copy of the code to edit as needed. <br />
 <br /><br />
 
 ## Business Track
