@@ -41,13 +41,13 @@ This workshop was prepared and presented by [Lilian Abou Hamdan](https://www.lin
 
 ### 2. AI in Insurance
 
-*   Presentation Slides
+*   [Presentation Slides](https://drive.google.com/file/d/1LiJ3ahHPlhyC9_4_CvOLJw9fdiUxrbUt/view)
 
 This workshop was prepared and presented by [Georges Touma](https://www.linkedin.com/in/georgestouma/).
 
 ### 3. AI in Marketing
 
-*   Presentation Slides
+*   [Presentation Slides](https://drive.google.com/file/d/1DkiA7xod7Iv2VD-uxqEOrb3lYQC4mvy0/view)
 
 This workshop was prepared and presented by [Jad El Jerdy](https://www.linkedin.com/in/jad-el-jerdy-3ba46634/).
 
