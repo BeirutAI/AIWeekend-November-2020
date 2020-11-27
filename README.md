@@ -35,8 +35,6 @@ NOTE: To edit any of the code scripts above, open the file in Google Colaborator
 
 ### 1. AI in Human Resources: Myths & Facts 
 
-*   Presentation Slides
-
 This workshop was prepared and presented by [Lilian Abou Hamdan](https://www.linkedin.com/in/lilian-abou-hamdan-a1467197/).
 
 ### 2. AI in Insurance
